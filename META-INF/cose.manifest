@@ -1,0 +1,142 @@
+Manifest-Version: 1.0
+
+Name: LICENSE
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: hiS82uVbru8AzRHV38+mD2hxCgI=
+SHA256-Digest: jOtLnuWt7d5Hsx6XXB2QxzrSe2sWWh3NgMfFRetluQM=
+
+Name: manifest.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: WO1DDhpLQv6HXbcXs9rutU9DiZE=
+SHA256-Digest: ZxGhwuV3CHGjMHRjSYb2sn5ja/rT3X/PadaJJPQzCUY=
+
+Name: PRIVACY.md
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: NmphEn9IJmwGse2L4SjSegZGSwY=
+SHA256-Digest: ZiatklZDjG0ciVWlBRfB5vlRwPhGv7xI6njSgEk1IHw=
+
+Name: README.md
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: j8T1swydsGklKHeRiH1/GgoAydY=
+SHA256-Digest: dyoywrD4ZnHwJICTXq8Lh4K8pdt5LRrjo4Tg+slDcac=
+
+Name: RELEASE-NOTES.md
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Tkg3+aDpP7TtA9zgNyVX9aM0rl0=
+SHA256-Digest: Y+2DGSkpczOxRbbh7TvIscTWtD8I0tXJDKgbmwD2jV0=
+
+Name: background/tranquility_bg_message_manager.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 2mNk9Z4+LyHzO+zfBG788VjYRAo=
+SHA256-Digest: c1UaTVfF41JneAUd9zHYCjVkTWlcVPK0P3JWJkO0YcA=
+
+Name: background/tranquility_bg_context_menu.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: dTO7wlqA5Au0ZAqhpZF+NMQ04G0=
+SHA256-Digest: xWfkTCZAWo+HA9Q4ug4CvXzx5AlxRkIb6N+YBw3vQTs=
+
+Name: background/tranquility_bg_common_functions.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: ykkz+1UH7uxCCvW9c0VeSZGWsUM=
+SHA256-Digest: 2OZ0a37yXDktroQ8Nr9XjHsYNfZ9ruhtqEWuolippJ4=
+
+Name: background/tranquility_bg_db_interface.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Lo/hFyY8Fygc9Y/0CKPizeU9qkU=
+SHA256-Digest: avR+Nqghm0kohZ6A1Rxf5Cwv0iymcqK18FduBsjE80o=
+
+Name: background/tranquility_presets.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: hhHEjzCB3s6clXsTD3penA78P6o=
+SHA256-Digest: ++qWtSDiAhEaVmvSlS/Zj6CizARBAK3rX0NbZ28noxU=
+
+Name: content_scripts/tranquility_annotations.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: XE3g4ojAfS4kTXujrBhi5oYiCG0=
+SHA256-Digest: fFAaMm6J7fZEUEhHg8oOhChgz2Bre2rcdjQdEJED6uY=
+
+Name: content_scripts/tranquility_ui_elems.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: OTpPNN4ll0RCTH36OxE6v1n3ZbA=
+SHA256-Digest: dOS8PfE1+mEagcI+UDJUohCQa3fR1J9RbK7iV+0d0eU=
+
+Name: content_scripts/tranquility_offline_content.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: NNsW8eihLi22CsDzNP9/7/csLQk=
+SHA256-Digest: bM7WLYPivQIwKGhYw1cbZjzQB4ekEz/YVPK70UkiJ1Y=
+
+Name: content_scripts/tranquilize.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: uhS98MxtLPsMpHWpfXxD5NPotNM=
+SHA256-Digest: E/fXT7lRXI5Qt4rrMgCLEF5kHr27gb7vnH3q0XL+rGc=
+
+Name: content_scripts/tranquility_event_handlers.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: /Tu6WI3EtRyJMWFH3FuZ/8VQd0Y=
+SHA256-Digest: YBQI8WFzLNJFNvqjaI9EnqrOrPAauSjZPmosslYBuQU=
+
+Name: content_scripts/apply_tranquility_preferences.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 77KZ66tL7wvmZh+bZVY+nre0iLI=
+SHA256-Digest: LP6lY4y71ZdFCPRgzTFQD0xQtk0vWhOtazmrfFVk/8I=
+
+Name: css/tranquility.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: X5jufe48jbu8ItfaMPbNtKAQMQo=
+SHA256-Digest: 8zJpNjxz7w/g2Ec7XbuULduODeNrlq7hqrBEacp0Bi4=
+
+Name: icons/tranquility-32.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 9WqyAWvZPILH+P/imtzSAFfVC9w=
+SHA256-Digest: 1GVoX1aHiaJcqe6tsVht7kdXYfBt42A7EifbhslPgpA=
+
+Name: icons/tranquility-32-grayscale.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VOwYcfqsiaLGzR1efSgO319eOPA=
+SHA256-Digest: g1ykIReliNmtL8EHi8XhBB2Hs0upfgn+zesY8j0YFZ8=
+
+Name: icons/tranquility_pdf.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: MgFqcCnvFaLrZv63OMI2RhjMNlo=
+SHA256-Digest: 86kXFs+Y1p+pCHKeYOOX1+s7xcF/n1n5XtnWpL6MgMw=
+
+Name: icons/tranquility-24.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Ayq9CyYaQLOyBzvKuYx600FL294=
+SHA256-Digest: NlwQyuJ/S5vcQrF3TxPxQcm+XgV7BgZmI4aWFLdY/gA=
+
+Name: icons/tranquility-16.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Vl50myl5o2feAQzeP/b25AHR078=
+SHA256-Digest: NOCrTSoWSsNCbbgcZRE35Hf0EIPf+J8ny0musmDYoRY=
+
+Name: icons/delete_icon.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: gG/59hs82Lot1P9ET8QOQb8fviw=
+SHA256-Digest: rg/aqUmtIu/YISgAm9yXKKVefxZ0IaJ2MHwmdCaNYso=
+
+Name: _locales/en/messages.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Dc93RGiCF95X3TAkiGHXWYMjQHA=
+SHA256-Digest: 3slWG8bxSzNxzu8a7MAFX44sTa3FMvEQHDwTz+te9zs=
+
+Name: options/tranquility_options.html
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: idn8ANuyztOEMDa5bj01N5dhXgU=
+SHA256-Digest: LhKN/Br81jj/pwcKW3jSJX3RDV/Z1VWwXBSuLPE2zmw=
+
+Name: options/tranquility_options.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: QlR+BPkwRfqvDG803Y3ffsafU5E=
+SHA256-Digest: EnSHIvTttXTNfOkEMH+lDyfpjX/bBPTbviZS/jqk/QE=
+
+Name: options/tranquility_options.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: AZb6xLR8NE+5ndJTsJYJ0Hs8fJM=
+SHA256-Digest: PB/3z+I1O/TwkNU4mZAOx8mnjuXKr/xW21ziS229qik=
+
+Name: mozilla-recommendation.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: n+roWDFjOX6c4ngxYiIYrWQ+Db0=
+SHA256-Digest: iR6u37j+j7KZfiPcjt0K8C0MoNZxHJReWCogtIhGPqY=
+
